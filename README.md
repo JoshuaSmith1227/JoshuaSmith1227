@@ -9,7 +9,7 @@ Below are my three main portfolios, which I've pinned to my profile.
 ---
 
 ### 1. 💼 Corporate AI & Performance Engineering
-* **Repository:** https://github.com/JoshuaSmith1227/Salliemae-Software-Engineering-Intern
+* **Repository:** (https://github.com/JoshuaSmith1227/Salliemae-Software-Engineering-Intern)
 * **What it is:** A technical deep-dive into my 2025 internship. I owned the performance optimization of a production AI classification tool, reducing its runtime from **200+ hours to ~1 hour** (a 200x improvement) by implementing concurrent batch processing.
 
 ### 2. 🎨 Creative & 3D/GameDev Portfolio
