@@ -9,15 +9,15 @@ Below are my three main portfolios, which I've pinned to my profile.
 ---
 
 ### 1. 💼 Corporate AI & Performance Engineering
-* **Repository:** [**Salliemae-Software-Engineering-Intern**](./Salliemae-Software-Engineering-Intern)
+* **Repository:** https://github.com/JoshuaSmith1227/Salliemae-Software-Engineering-Intern
 * **What it is:** A technical deep-dive into my 2025 internship. I owned the performance optimization of a production AI classification tool, reducing its runtime from **200+ hours to ~1 hour** (a 200x improvement) by implementing concurrent batch processing.
 
 ### 2. 🎨 Creative & 3D/GameDev Portfolio
-* **Repository:** [[**FiveWalnut-Creative-Portfolio**](./3D-Modeling-Game-Development-Portfolio)](https://github.com/JoshuaSmith1227/3D-Modeling-Game-Development-Portfolio)
+* **Repository:** (https://github.com/JoshuaSmith1227/3D-Modeling-Game-Development-Portfolio)
 * **What it is:** My professional portfolio as a 3D artist and game developer ("FiveWalnut"). This work includes **official collaborations with Epic Games**, features in *Newsweek* and *Business of Esports*, and projects that have reached over **20 million players**.
 
 ### 3. 📚 Academic Core Systems Portfolio
-* **Repository:** [**CMU-Project-Portfolio**](./CMU-Project-Portfolio)
+* **Repository:** (https://github.com/JoshuaSmith1227/CMU-Project-Portfolio)
 * **What it is:** High-level summaries of my most complex academic projects, including a **Dynamic Memory Allocator**, a **Lightweight C JVM Interpreter**, and a **Python 3D Modeling Engine**. (The code is kept private to maintain academic integrity, but I am happy to provide a 1-on-1 walkthrough).
 
 ---
