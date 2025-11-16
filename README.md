@@ -32,5 +32,5 @@ Below are my three main portfolios, which I've pinned to my profile.
 ---
 
 ### Contact & Links
-* **LinkedIn:** `[Link to his LinkedIn]`
-* **ArtStation:** `[Link to his ArtStation]`
+* **LinkedIn:** `https://www.linkedin.com/in/joshuasmith-cmu/`
+* **ArtStation:** `https://www.artstation.com/fivewalnut`
