@@ -13,7 +13,7 @@ Below are my three main portfolios, which I've pinned to my profile.
 * **What it is:** A technical deep-dive into my 2025 internship. I owned the performance optimization of a production AI classification tool, reducing its runtime from **200+ hours to ~1 hour** (a 200x improvement) by implementing concurrent batch processing.
 
 ### 2. 🎨 Creative & 3D/GameDev Portfolio
-* **Repository:** [**FiveWalnut-Creative-Portfolio**](./FiveWalnut-Creative-Portfolio)
+* **Repository:** [**FiveWalnut-Creative-Portfolio**](./3D-Modeling-Game-Development-Portfolio)
 * **What it is:** My professional portfolio as a 3D artist and game developer ("FiveWalnut"). This work includes **official collaborations with Epic Games**, features in *Newsweek* and *Business of Esports*, and projects that have reached over **20 million players**.
 
 ### 3. 📚 Academic Core Systems Portfolio
